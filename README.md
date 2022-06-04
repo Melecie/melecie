@@ -7,7 +7,8 @@
 * <code>🌐</code> javascript and html too, but working with html for large projects is painful
 
 ### <code>print("projects")</code>
-* <code>📔</code> **[Ledebook](https://github.com/Melecie/ledebook)** - turns MediaWiki ledes into articles. coming soon(tm)
+* <code>📔</code> **[Ledebook](https://github.com/Melecie/ledebook)** - turns MediaWiki ledes into articles.
+* <code>⚗️</code> **[Project Magic](https://github.com/Melecie/project-magic) - coming soon(tm)
 * <code>✨</code> **[Sandboxels Fey & More](https://github.com/slweeb/sandboxels)** - a mod for slweeb's Sandboxels that adds magical items! located in the mods folder
 
 ### <code>print("other places")</code>
