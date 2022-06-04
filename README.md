@@ -8,7 +8,7 @@
 
 ### <code>print("projects")</code>
 * <code>📔</code> **[Ledebook](https://github.com/Melecie/ledebook)** - turns MediaWiki ledes into articles.
-* <code>⚗️</code> **[Project Magic](https://github.com/Melecie/project-magic) - coming soon(tm)
+* <code>⚗️</code> **[Project Magic](https://github.com/Melecie/project-magic)** - coming soon(tm)
 * <code>✨</code> **[Sandboxels Fey & More](https://github.com/slweeb/sandboxels)** - a mod for slweeb's Sandboxels that adds magical items! located in the mods folder
 
 ### <code>print("other places")</code>
@@ -18,4 +18,4 @@
 * <code>👽</code> **[Reddit](http://reddit.com/u/SoaPuffball)** - /u/SoaPuffball
 * <code>🎼</code> **[Spotify](https://open.spotify.com/user/31b2r4nyo6a3btjjkwybos6qwx7q)** - Melecie
 * <code>🎬</code> **[YouTube](https://www.youtube.com/channel/UCrMj1yrexqCuiOhZPGOfmVw)** - MelecieDiancie
-* <code>💜</code> **Other** - either Melecie, MelecieDiancie, IridescentClairvoyancie, or SoaPuffball. although if it's not listed here, chances are it's inactive. the more to the right it is, the older the account is.
+* <code>💜</code> **Other** - either Melecie, MelecieDiancie, IridescentClairvoyancie, or SoaPuffball
