@@ -13,10 +13,9 @@
 * <code>✨</code> **[Sandboxels Fey & More](https://github.com/slweeb/sandboxels)** - a mod for slweeb's Sandboxels that adds magical items! located in the mods folder
 
 ### <code>print("other places")</code>
-* <code>🗯️</code> **[Discord](https://discord.com/)** - meleciediancie / soapuffball#3625
+* <code>🗯️</code> **[Discord](https://discord.com/)** - melecie
 * <code>📚</code> **[English Wikipedia](https://en.wikipedia.org/wiki/User:Melecie)** - Melecie
 * <code>🟩</code> **[Minecraft Java](https://www.minecraft.net/en-us)** - Melecie
 * <code>👽</code> **[Reddit](http://reddit.com/u/SoaPuffball)** - /u/SoaPuffball
-* <code>🎼</code> **[Spotify](https://open.spotify.com/user/31b2r4nyo6a3btjjkwybos6qwx7q)** - Melecie
-* <code>🎬</code> **[YouTube](https://www.youtube.com/channel/UCrMj1yrexqCuiOhZPGOfmVw)** - MelecieDiancie
+* <code>🎬</code> **[YouTube](https://www.youtube.com/channel/UCrMj1yrexqCuiOhZPGOfmVw)** - Melecie
 * <code>💜</code> **Other** - either Melecie, MelecieDiancie, IridescentClairvoyancie, or SoaPuffball
