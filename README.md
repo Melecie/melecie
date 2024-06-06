@@ -7,6 +7,7 @@
 * <code>🌐</code> javascript and html too, but working with html for large projects is painful
 
 ### <code>print("projects")</code>
+* <code>🧺</code>**[Hearts Basket](https://melecie.neocities.org/)** - my personal website!
 * <code>📔</code> **[Ledebook](https://github.com/Melecie/ledebook)** - a tiny, dumb script that turns MediaWiki ledes into articles.
 * <code>🔖</code> **Melecie's Splashes** - a minecraft splash pack, containing 500 splashes! coming soon(tm)
 * <code>✨</code> **[Sandboxels Fey & More](https://github.com/slweeb/sandboxels)** - a mod for slweeb's Sandboxels that adds magical items! located in the mods folder
